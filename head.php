@@ -18,6 +18,6 @@
     <!-- link css -->
     <link rel="stylesheet" href="assets/css/style.css" />
     <!-- fav icone -->
-     <link rel="icon" href="assets/img/favvpng.png">
+     <link rel="icon" href="">
     <title> <?php echo $title; ?> </title>
   </head>

@@ -1,0 +1,20 @@
+.addstd_model {
+    z-index: 2;
+    width: 300;
+    height: 500;
+    position: absolute;
+    transform: translateY(-25px);
+}
+
+.modelcont {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    z-index: 3;
+    background-color: #1c1c1c69;
+    opacity: 0.7;
+}
+
+.hide_model {
+    display: none;
+}
